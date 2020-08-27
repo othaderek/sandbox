@@ -1,0 +1,12 @@
+/Users/othahernandez/Development/code/cs/sandbox/bin/Debug/netcoreapp3.1/sandbox.deps.json
+/Users/othahernandez/Development/code/cs/sandbox/bin/Debug/netcoreapp3.1/sandbox.runtimeconfig.json
+/Users/othahernandez/Development/code/cs/sandbox/bin/Debug/netcoreapp3.1/sandbox.runtimeconfig.dev.json
+/Users/othahernandez/Development/code/cs/sandbox/bin/Debug/netcoreapp3.1/sandbox.dll
+/Users/othahernandez/Development/code/cs/sandbox/bin/Debug/netcoreapp3.1/sandbox.pdb
+/Users/othahernandez/Development/code/cs/sandbox/obj/Debug/netcoreapp3.1/sandbox.csprojAssemblyReference.cache
+/Users/othahernandez/Development/code/cs/sandbox/obj/Debug/netcoreapp3.1/sandbox.AssemblyInfoInputs.cache
+/Users/othahernandez/Development/code/cs/sandbox/obj/Debug/netcoreapp3.1/sandbox.AssemblyInfo.cs
+/Users/othahernandez/Development/code/cs/sandbox/obj/Debug/netcoreapp3.1/sandbox.csproj.CoreCompileInputs.cache
+/Users/othahernandez/Development/code/cs/sandbox/obj/Debug/netcoreapp3.1/sandbox.dll
+/Users/othahernandez/Development/code/cs/sandbox/obj/Debug/netcoreapp3.1/sandbox.pdb
+/Users/othahernandez/Development/code/cs/sandbox/obj/Debug/netcoreapp3.1/sandbox.genruntimeconfig.cache
